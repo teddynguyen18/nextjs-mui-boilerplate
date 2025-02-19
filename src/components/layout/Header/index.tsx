@@ -5,7 +5,7 @@ import React from 'react';
 import Typography from '@mui/material/Typography';
 import Link from 'next/link';
 
-export const CustomToolbar = Toolbar
+export const CustomToolbar = Toolbar;
 
 export default React.memo(function Header() {
   return (
